@@ -1,2 +1,2 @@
 # Criminal-Detection
-Criminal Detection using Yolo v8
+Criminal Detection using CNN
